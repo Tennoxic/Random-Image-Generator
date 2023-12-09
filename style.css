@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(63, 85, 27);
+}
+.jumbotron{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    display: flex; 
+    flex-wrap: wrap; 
+    margin: auto;
+}
+.img-thumbnail{
+    border-color: rgb(63, 85, 27);
+    background-color: rgb(63, 85, 27);
+}
+.text-center{
+    color:white;
+    margin: 15px 0px 15px 0px;
+}
